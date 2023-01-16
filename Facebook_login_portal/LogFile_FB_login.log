@@ -1,0 +1,317 @@
+[INFO] [01/08:23 03/31/14] ********************(  Login method  )**********************
+[INFO] [01/08:23 03/31/14] ===============================================================
+[INFO] [01/08:23 03/31/14]  Browser invoked successfully 
+[INFO] [01/08:23 03/31/14]  provided url opened successfully 
+[WARN] [01/08:23 03/31/14]  entered data may not be correct, please enter valid data 
+[ERROR] [01/08:23 03/31/14]  clicking on submit button failed, due to it is under disabled mode 
+[FATAL] [01/08:23 03/31/14]  data can't be entered into database because database is filled, hence stopping execution 
+[INFO] [01/08:23 03/31/14] ***************************************** **********************
+[INFO] [01/08:23 03/31/14] ===============================================================
+[INFO] [01/08:23 03/31/58] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 03/31/58] ===============================================================
+[INFO] [01/08:23 03/32/03] Launching browser sucessfully chrome
+[INFO] [01/08:23 03/32/04] https://www.facebook.com/ invoked successfully
+[INFO] [01/08:23 03/32/04] Login Action failed  due to java.lang.IllegalArgumentException: Cannot find elements when name text is null.
+[INFO] [01/08:23 03/32/05] browser closed successfully
+[INFO] [01/08:23 03/32/05] ***************************************** **********************
+[INFO] [01/08:23 03/32/05] ===============================================================
+[INFO] [01/08:23 03/32/05] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 03/32/05] ===============================================================
+[INFO] [01/08:23 03/32/06] Launching browser sucessfully chrome
+[INFO] [01/08:23 03/32/07] https://www.facebook.com/ invoked successfully
+[INFO] [01/08:23 03/32/07] Login Action failed  due to java.lang.IllegalArgumentException: Cannot find elements when name text is null.
+[INFO] [01/08:23 03/32/07] browser closed successfully
+[INFO] [01/08:23 03/32/07] ***************************************** **********************
+[INFO] [01/08:23 03/32/07] ===============================================================
+[INFO] [01/08:23 03/32/07] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 03/32/07] ===============================================================
+[INFO] [01/08:23 03/32/08] Launching browser sucessfully chrome
+[INFO] [01/08:23 03/32/09] https://www.facebook.com/ invoked successfully
+[INFO] [01/08:23 03/32/09] Login Action failed  due to java.lang.IllegalArgumentException: Cannot find elements when name text is null.
+[INFO] [01/08:23 03/32/10] browser closed successfully
+[INFO] [01/08:23 03/32/10] ***************************************** **********************
+[INFO] [01/08:23 03/32/10] ===============================================================
+[INFO] [01/08:23 03/32/10] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 03/32/10] ===============================================================
+[INFO] [01/08:23 03/32/11] Launching browser sucessfully chrome
+[INFO] [01/08:23 03/32/12] https://www.facebook.com/ invoked successfully
+[INFO] [01/08:23 03/32/12] Login Action failed  due to java.lang.IllegalArgumentException: Cannot find elements when name text is null.
+[INFO] [01/08:23 03/32/12] browser closed successfully
+[INFO] [01/08:23 03/32/12] ***************************************** **********************
+[INFO] [01/08:23 03/32/12] ===============================================================
+[INFO] [01/08:23 03/34/26] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 03/34/26] ===============================================================
+[INFO] [01/08:23 03/34/28] Launching browser sucessfully chrome
+[INFO] [01/08:23 03/34/30] https://www.facebook.com/ invoked successfully
+[INFO] [01/08:23 03/34/31] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01/08:23 03/34/32] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01/08:23 03/34/33] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01/08:23 03/34/33] login Action completed  successfully
+[INFO] [01/08:23 03/34/34] browser closed successfully
+[INFO] [01/08:23 03/34/34] ***************************************** **********************
+[INFO] [01/08:23 03/34/34] ===============================================================
+[INFO] [01/08:23 03/34/34] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 03/34/34] ===============================================================
+[INFO] [01/08:23 03/34/35] Launching browser sucessfully chrome
+[INFO] [01/08:23 03/34/36] https://www.facebook.com/ invoked successfully
+[INFO] [01/08:23 03/34/37] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01/08:23 03/34/38] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01/08:23 03/34/39] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01/08:23 03/34/39] login Action completed  successfully
+[INFO] [01/08:23 03/34/39] browser closed successfully
+[INFO] [01/08:23 03/34/39] ***************************************** **********************
+[INFO] [01/08:23 03/34/39] ===============================================================
+[INFO] [01/08:23 03/34/39] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 03/34/39] ===============================================================
+[INFO] [01/08:23 03/34/40] Launching browser sucessfully chrome
+[INFO] [01/08:23 03/34/41] https://www.facebook.com/ invoked successfully
+[INFO] [01/08:23 03/34/42] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01/08:23 03/34/43] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01/08:23 03/34/44] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01/08:23 03/34/44] login Action completed  successfully
+[INFO] [01/08:23 03/34/45] browser closed successfully
+[INFO] [01/08:23 03/34/45] ***************************************** **********************
+[INFO] [01/08:23 03/34/45] ===============================================================
+[INFO] [01/08:23 03/34/45] ********************( Invoking the browser )**********************
+[INFO] [01/08:23 03/34/45] ===============================================================
+[INFO] [01/08:23 03/34/46] Launching browser sucessfully chrome
+[INFO] [01/08:23 03/34/47] https://www.facebook.com/ invoked successfully
+[INFO] [01/08:23 03/34/48] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01/08:23 03/34/48] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01/08:23 03/34/49] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01/08:23 03/34/49] login Action completed  successfully
+[INFO] [01/08:23 03/34/50] browser closed successfully
+[INFO] [01/08:23 03/34/50] ***************************************** **********************
+[INFO] [01/08:23 03/34/50] ===============================================================
+[INFO] [01/10:23 10/42/34] ********************( Invoking the browser )**********************
+[INFO] [01/10:23 10/42/34] ===============================================================
+[INFO] [01/10:23 10/42/42] Launching browser sucessfully chrome
+[INFO] [01/10:23 10/42/43] https://www.facebook.com/ invoked successfully
+[INFO] [01/10:23 10/42/44] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01/10:23 10/42/45] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01/10:23 10/42/46] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01/10:23 10/42/46] login Action completed  successfully
+[INFO] [01/10:23 10/42/47] browser closed successfully
+[INFO] [01/10:23 10/42/47] ***************************************** **********************
+[INFO] [01/10:23 10/42/47] ===============================================================
+[INFO] [01/10:23 10/42/47] ********************( Invoking the browser )**********************
+[INFO] [01/10:23 10/42/47] ===============================================================
+[INFO] [01/10:23 10/42/49] Launching browser sucessfully chrome
+[INFO] [01/10:23 10/42/51] https://www.facebook.com/ invoked successfully
+[INFO] [01/10:23 10/42/52] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01/10:23 10/42/53] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01/10:23 10/42/54] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01/10:23 10/42/54] login Action completed  successfully
+[INFO] [01/10:23 10/42/54] browser closed successfully
+[INFO] [01/10:23 10/42/54] ***************************************** **********************
+[INFO] [01/10:23 10/42/54] ===============================================================
+[INFO] [01/10:23 10/42/54] ********************( Invoking the browser )**********************
+[INFO] [01/10:23 10/42/54] ===============================================================
+[INFO] [01/10:23 10/42/56] Launching browser sucessfully chrome
+[INFO] [01/10:23 10/42/57] https://www.facebook.com/ invoked successfully
+[INFO] [01/10:23 10/42/58] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01/10:23 10/42/59] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01/10:23 10/43/00] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01/10:23 10/43/00] login Action completed  successfully
+[INFO] [01/10:23 10/43/01] browser closed successfully
+[INFO] [01/10:23 10/43/01] ***************************************** **********************
+[INFO] [01/10:23 10/43/01] ===============================================================
+[INFO] [01/10:23 10/43/01] ********************( Invoking the browser )**********************
+[INFO] [01/10:23 10/43/01] ===============================================================
+[INFO] [01/10:23 10/43/02] Launching browser sucessfully chrome
+[INFO] [01/10:23 10/43/04] https://www.facebook.com/ invoked successfully
+[INFO] [01/10:23 10/43/04] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01/10:23 10/43/05] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01/10:23 10/43/06] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01/10:23 10/43/06] login Action completed  successfully
+[INFO] [01/10:23 10/43/08] browser closed successfully
+[INFO] [01/10:23 10/43/08] ***************************************** **********************
+[INFO] [01/10:23 10/43/08] ===============================================================
+[INFO] [01:10:23 10/47/11] ********************(  Login method  )**********************
+[INFO] [01:10:23 10/47/11] ===============================================================
+[INFO] [01:10:23 10/47/11]  Browser invoked successfully 
+[INFO] [01:10:23 10/47/11]  provided url opened successfully 
+[WARN] [01:10:23 10/47/11]  entered data may not be correct, please enter valid data 
+[ERROR] [01:10:23 10/47/11]  clicking on submit button failed, due to it is under disabled mode 
+[FATAL] [01:10:23 10/47/11]  data can't be entered into database because database is filled, hence stopping execution 
+[INFO] [01:10:23 10/47/11] ***************************************** **********************
+[INFO] [01:10:23 10/47/11] ===============================================================
+[INFO] [01:11:23 10/38/26] ********************( Invoking the browser )**********************
+[INFO] [01:11:23 10/38/26] ===============================================================
+[INFO] [01:11:23 10/38/28] Launching browser sucessfully chrome
+[INFO] [01:11:23 10/38/30] https://www.facebook.com/ invoked successfully
+[INFO] [01:11:23 10/38/31] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:11:23 10/38/32] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:11:23 10/38/33] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:11:23 10/38/33] login Action completed  successfully
+[INFO] [01:11:23 10/38/34] browser closed successfully
+[INFO] [01:11:23 10/38/34] ***************************************** **********************
+[INFO] [01:11:23 10/38/34] ===============================================================
+[INFO] [01:11:23 10/38/34] ********************( Invoking the browser )**********************
+[INFO] [01:11:23 10/38/34] ===============================================================
+[INFO] [01:11:23 10/38/35] Launching browser sucessfully chrome
+[INFO] [01:11:23 10/38/36] https://www.facebook.com/ invoked successfully
+[INFO] [01:11:23 10/38/37] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:11:23 10/38/38] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:11:23 10/38/39] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:11:23 10/38/39] login Action completed  successfully
+[INFO] [01:11:23 10/38/39] browser closed successfully
+[INFO] [01:11:23 10/38/39] ***************************************** **********************
+[INFO] [01:11:23 10/38/39] ===============================================================
+[INFO] [01:11:23 10/38/39] ********************( Invoking the browser )**********************
+[INFO] [01:11:23 10/38/39] ===============================================================
+[INFO] [01:11:23 10/38/40] Launching browser sucessfully chrome
+[INFO] [01:11:23 10/38/41] https://www.facebook.com/ invoked successfully
+[INFO] [01:11:23 10/38/42] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:11:23 10/38/43] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:11:23 10/38/44] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:11:23 10/38/44] login Action completed  successfully
+[INFO] [01:11:23 10/38/45] browser closed successfully
+[INFO] [01:11:23 10/38/45] ***************************************** **********************
+[INFO] [01:11:23 10/38/45] ===============================================================
+[INFO] [01:11:23 10/38/45] ********************( Invoking the browser )**********************
+[INFO] [01:11:23 10/38/45] ===============================================================
+[INFO] [01:11:23 10/38/46] Launching browser sucessfully chrome
+[INFO] [01:11:23 10/38/47] https://www.facebook.com/ invoked successfully
+[INFO] [01:11:23 10/38/48] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:11:23 10/38/49] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:11:23 10/38/50] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:11:23 10/38/50] login Action completed  successfully
+[INFO] [01:11:23 10/38/50] browser closed successfully
+[INFO] [01:11:23 10/38/50] ***************************************** **********************
+[INFO] [01:11:23 10/38/50] ===============================================================
+[INFO] [01:13:23 11/25/20] ********************( Invoking the browser )**********************
+[INFO] [01:13:23 11/25/20] ===============================================================
+[INFO] [01:13:23 11/25/27] Launching browser sucessfully chrome
+[INFO] [01:13:23 11/25/29] https://www.facebook.com/ invoked successfully
+[INFO] [01:13:23 11/25/30] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:13:23 11/25/31] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:13:23 11/25/32] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:13:23 11/25/32] login Action completed  successfully
+[INFO] [01:13:23 11/25/32] browser closed successfully
+[INFO] [01:13:23 11/25/32] ***************************************** **********************
+[INFO] [01:13:23 11/25/32] ===============================================================
+[INFO] [01:13:23 11/25/32] ********************( Invoking the browser )**********************
+[INFO] [01:13:23 11/25/32] ===============================================================
+[INFO] [01:13:23 11/25/34] Launching browser sucessfully chrome
+[INFO] [01:13:23 11/25/35] https://www.facebook.com/ invoked successfully
+[INFO] [01:13:23 11/25/36] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:13:23 11/25/37] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:13:23 11/25/38] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:13:23 11/25/38] login Action completed  successfully
+[INFO] [01:13:23 11/25/39] browser closed successfully
+[INFO] [01:13:23 11/25/39] ***************************************** **********************
+[INFO] [01:13:23 11/25/39] ===============================================================
+[INFO] [01:13:23 11/25/39] ********************( Invoking the browser )**********************
+[INFO] [01:13:23 11/25/39] ===============================================================
+[INFO] [01:13:23 11/25/40] Launching browser sucessfully chrome
+[INFO] [01:13:23 11/25/41] https://www.facebook.com/ invoked successfully
+[INFO] [01:13:23 11/25/42] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:13:23 11/25/43] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:13:23 11/25/44] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:13:23 11/25/44] login Action completed  successfully
+[INFO] [01:13:23 11/25/45] browser closed successfully
+[INFO] [01:13:23 11/25/45] ***************************************** **********************
+[INFO] [01:13:23 11/25/45] ===============================================================
+[INFO] [01:13:23 11/25/45] ********************( Invoking the browser )**********************
+[INFO] [01:13:23 11/25/45] ===============================================================
+[INFO] [01:13:23 11/25/46] Launching browser sucessfully chrome
+[INFO] [01:13:23 11/25/47] https://www.facebook.com/ invoked successfully
+[INFO] [01:13:23 11/25/48] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:13:23 11/25/48] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:13:23 11/25/49] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:13:23 11/25/49] login Action completed  successfully
+[INFO] [01:13:23 11/25/50] browser closed successfully
+[INFO] [01:13:23 11/25/50] ***************************************** **********************
+[INFO] [01:13:23 11/25/50] ===============================================================
+[INFO] [01:14:23 10/39/13] ********************( Invoking the browser )**********************
+[INFO] [01:14:23 10/39/13] ===============================================================
+[INFO] [01:14:23 10/39/17] failing launching Browser
+[INFO] [01:14:23 11/01/11] ********************( Invoking the browser )**********************
+[INFO] [01:14:23 11/01/11] ===============================================================
+[INFO] [01:14:23 11/01/15] Launching browser sucessfully chrome
+[INFO] [01:14:23 11/01/16] https://www.facebook.com/ invoked successfully
+[INFO] [01:14:23 11/01/17] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:14:23 11/01/18] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:14:23 11/01/19] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:14:23 11/01/19] login Action completed  successfully
+[INFO] [01:14:23 11/01/19] browser closed successfully
+[INFO] [01:14:23 11/01/19] ***************************************************************
+[INFO] [01:14:23 11/01/19] ===============================================================
+[INFO] [01:14:23 11/01/19] ********************( Invoking the browser )**********************
+[INFO] [01:14:23 11/01/19] ===============================================================
+[INFO] [01:14:23 11/01/20] Launching browser sucessfully chrome
+[INFO] [01:14:23 11/01/21] https://www.facebook.com/ invoked successfully
+[INFO] [01:14:23 11/01/22] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:14:23 11/01/23] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:14:23 11/01/24] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:14:23 11/01/24] login Action completed  successfully
+[INFO] [01:14:23 11/01/24] browser closed successfully
+[INFO] [01:14:23 11/01/24] ***************************************************************
+[INFO] [01:14:23 11/01/24] ===============================================================
+[INFO] [01:14:23 11/01/24] ********************( Invoking the browser )**********************
+[INFO] [01:14:23 11/01/24] ===============================================================
+[INFO] [01:14:23 11/01/26] Launching browser sucessfully chrome
+[INFO] [01:14:23 11/01/27] https://www.facebook.com/ invoked successfully
+[INFO] [01:14:23 11/01/27] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:14:23 11/01/28] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:14:23 11/01/29] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:14:23 11/01/29] login Action completed  successfully
+[INFO] [01:14:23 11/01/30] browser closed successfully
+[INFO] [01:14:23 11/01/30] ***************************************************************
+[INFO] [01:14:23 11/01/30] ===============================================================
+[INFO] [01:14:23 11/01/30] ********************( Invoking the browser )**********************
+[INFO] [01:14:23 11/01/30] ===============================================================
+[INFO] [01:14:23 11/01/31] Launching browser sucessfully chrome
+[INFO] [01:14:23 11/01/32] https://www.facebook.com/ invoked successfully
+[INFO] [01:14:23 11/01/33] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:14:23 11/01/34] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:14:23 11/01/35] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:14:23 11/01/35] login Action completed  successfully
+[INFO] [01:14:23 11/01/35] browser closed successfully
+[INFO] [01:14:23 11/01/35] ***************************************************************
+[INFO] [01:14:23 11/01/35] ===============================================================
+[INFO] [01:16:23 10/07/22] ********************( Invoking the browser )**********************
+[INFO] [01:16:23 10/07/22] ===============================================================
+[INFO] [01:16:23 10/07/27] Launching browser sucessfully chrome
+[INFO] [01:16:23 10/07/29] https://www.facebook.com/ invoked successfully
+[INFO] [01:16:23 10/07/30] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:16:23 10/07/31] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:16:23 10/07/32] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:16:23 10/07/32] login Action completed  successfully
+[INFO] [01:16:23 10/07/32] browser closed successfully
+[INFO] [01:16:23 10/07/32] ***************************************************************
+[INFO] [01:16:23 10/07/32] ===============================================================
+[INFO] [01:16:23 10/07/32] ********************( Invoking the browser )**********************
+[INFO] [01:16:23 10/07/32] ===============================================================
+[INFO] [01:16:23 10/07/34] Launching browser sucessfully chrome
+[INFO] [01:16:23 10/07/35] https://www.facebook.com/ invoked successfully
+[INFO] [01:16:23 10/07/36] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:16:23 10/07/37] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:16:23 10/07/38] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:16:23 10/07/38] login Action completed  successfully
+[INFO] [01:16:23 10/07/38] browser closed successfully
+[INFO] [01:16:23 10/07/38] ***************************************************************
+[INFO] [01:16:23 10/07/38] ===============================================================
+[INFO] [01:16:23 10/07/38] ********************( Invoking the browser )**********************
+[INFO] [01:16:23 10/07/38] ===============================================================
+[INFO] [01:16:23 10/07/40] Launching browser sucessfully chrome
+[INFO] [01:16:23 10/07/41] https://www.facebook.com/ invoked successfully
+[INFO] [01:16:23 10/07/42] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:16:23 10/07/43] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:16:23 10/07/44] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:16:23 10/07/44] login Action completed  successfully
+[INFO] [01:16:23 10/07/44] browser closed successfully
+[INFO] [01:16:23 10/07/44] ***************************************************************
+[INFO] [01:16:23 10/07/44] ===============================================================
+[INFO] [01:16:23 10/07/44] ********************( Invoking the browser )**********************
+[INFO] [01:16:23 10/07/44] ===============================================================
+[INFO] [01:16:23 10/07/45] Launching browser sucessfully chrome
+[INFO] [01:16:23 10/07/46] https://www.facebook.com/ invoked successfully
+[INFO] [01:16:23 10/07/47] Login_username_txtbox_name   and its value is	emailis returned the element 
+[INFO] [01:16:23 10/07/48] Login_password_txtbox_name   and its value is	passis returned the element 
+[INFO] [01:16:23 10/07/49] Login_signin_button_xpath   and its value is	(//*[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy'])is returned the element 
+[INFO] [01:16:23 10/07/49] login Action completed  successfully
+[INFO] [01:16:23 10/07/50] browser closed successfully
+[INFO] [01:16:23 10/07/50] ***************************************************************
+[INFO] [01:16:23 10/07/50] ===============================================================

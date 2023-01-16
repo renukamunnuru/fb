@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-16T10:08:17 IST" name="Default suite" finished-at="2023-01-16T10:10:00 IST" duration-ms="103859">
+    <groups>
+    </groups>
+    <test started-at="2023-01-16T10:08:17 IST" name="Default test" finished-at="2023-01-16T10:10:00 IST" duration-ms="103859">
+      <class name="All_runners.Multiple_login_Runner">
+        <test-method is-config="true" signature="intiliaseFiles()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:17 IST" name="intiliaseFiles" finished-at="2023-01-16T10:08:17 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiliaseFiles -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:18 IST" name="OpenBrowserAndURL" finished-at="2023-01-16T10:08:24 IST" duration-ms="6282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_multiple(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:24 IST" name="Login_Runner_multiple" data-provider="anyname" finished-at="2023-01-16T10:08:34 IST" duration-ms="9951" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akshyamalavika]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1avinash]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Alisha Roy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_multiple -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:34 IST" name="close_Browser" finished-at="2023-01-16T10:08:35 IST" duration-ms="896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:35 IST" name="OpenBrowserAndURL" finished-at="2023-01-16T10:08:37 IST" duration-ms="2701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_multiple(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:37 IST" name="Login_Runner_multiple" data-provider="anyname" finished-at="2023-01-16T10:08:43 IST" duration-ms="5159" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sulekha]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The email address or mobile number you entered isn't connected to an account. Find your account and log in.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_multiple -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:43 IST" name="close_Browser" finished-at="2023-01-16T10:08:44 IST" duration-ms="1327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:44 IST" name="OpenBrowserAndURL" finished-at="2023-01-16T10:08:48 IST" duration-ms="4342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_multiple(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:48 IST" name="Login_Runner_multiple" data-provider="anyname" finished-at="2023-01-16T10:08:55 IST" duration-ms="6885" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akshyamalavika]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Avinash]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The password that you've entered is incorrect. Forgotten password?]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_multiple -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:55 IST" name="close_Browser" finished-at="2023-01-16T10:08:56 IST" duration-ms="1264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:08:56 IST" name="OpenBrowserAndURL" finished-at="2023-01-16T10:09:00 IST" duration-ms="3701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_multiple(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:00 IST" name="Login_Runner_multiple" data-provider="anyname" finished-at="2023-01-16T10:09:08 IST" duration-ms="7486" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akshyamalavika]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12347986986]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The password that you've entered is incorrect. Forgotten password?]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_multiple -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:08 IST" name="close_Browser" finished-at="2023-01-16T10:09:09 IST" duration-ms="1193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:09 IST" name="OpenBrowserAndURL" finished-at="2023-01-16T10:09:13 IST" duration-ms="3682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_multiple(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:13 IST" name="Login_Runner_multiple" data-provider="anyname" finished-at="2023-01-16T10:09:19 IST" duration-ms="6428" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akshyamalavika]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2345]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The password that you've entered is incorrect. Forgotten password?]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_multiple -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:19 IST" name="close_Browser" finished-at="2023-01-16T10:09:20 IST" duration-ms="1251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:20 IST" name="OpenBrowserAndURL" finished-at="2023-01-16T10:09:24 IST" duration-ms="3795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_multiple(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:24 IST" name="Login_Runner_multiple" data-provider="anyname" finished-at="2023-01-16T10:09:44 IST" duration-ms="19523" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akshyamalavika]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The password that you've entered is incorrect. Forgotten password?]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at All_runners.Multiple_login_Runner.Login_Runner_multiple(Multiple_login_Runner.java:32)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_multiple -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:44 IST" name="close_Browser" finished-at="2023-01-16T10:09:44 IST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:44 IST" name="OpenBrowserAndURL" finished-at="2023-01-16T10:09:47 IST" duration-ms="3106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_multiple(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:47 IST" name="Login_Runner_multiple" data-provider="anyname" finished-at="2023-01-16T10:09:59 IST" duration-ms="12348" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12334]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[#$%*^^D]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The password that you've entered is incorrect. Forgotten password?]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_multiple -->
+        <test-method is-config="true" signature="close_Browser()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:09:59 IST" name="close_Browser" finished-at="2023-01-16T10:10:00 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+        <test-method is-config="true" signature="FLushReports()[pri:0, instance:All_runners.Multiple_login_Runner@2e385cce]" started-at="2023-01-16T10:10:00 IST" name="FLushReports" finished-at="2023-01-16T10:10:00 IST" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FLushReports -->
+      </class> <!-- All_runners.Multiple_login_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
